@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sir-vision
+- 👋 Hi, I’m Oyebode Adetunji
 - 👀 I’m interested in building and sharing different codebase for different software programs 
 - 🌱 I’m currently learning@alx_africa
-- 💞️ I'm open to meet and collaborate on software programs 
+- 💞️ I'm open to meet and collaborate on software programs and Developers
 - 📫 Personal email: adetunji.oyebode6@gmail.com
 
 <!---
